@@ -24,6 +24,8 @@
 
 ### Google HR 视角
 #### [從 Apple 到 Google，Recruiter WeiLin 解析 Google 面試技巧與科技人資職涯！](https://www.cakeresume.com/resources/podcast-interview-google-shanghai-recruiter-weilin-lin?locale=zh-TW)
+> 精彩摘要
+>> 她也建議求職者們，就算不具備職缺要求的經驗，也可以深挖自己是否有「transferable skills」（可轉移技能），或是可以印證自己具備潛力的相關經驗，來說服對方「你就是這個職位的不二人選」。
 
 ### 谷歌面试群
 目前已有小伙伴99+，欢迎加我微信：love9871112
