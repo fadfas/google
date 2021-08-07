@@ -11,10 +11,17 @@
 > 精选摘要（对下面的常见问题解答）
 >> Google 是否还会在求职面试中提出类似脑筋急转弯的问题？ 我是否必须拥有计算机科学学位才能成为 Google 软件工程师？当某个职位已有合适人选时，你们会通知我吗？我可以申请多个职位吗？申请截止时间是什么时候？我去年参加了面试/提交了职位申请，但未被录用，还可以再申请吗？招聘人员会去我所在的大学吗？要为技术面试做好准备，我需要学习哪些技术课程？如果我参加面试时需要住宿，该怎么办？
 
+- [申请](https://careers.google.cn/how-we-hire/apply/)
+>  精选摘要
+>> 职位说明中所列的应聘要求可帮助您选择与您的背景和抱负最相符的职位，因此，请予以特别关注，而且招聘人员在审核申请时也会全面考虑这些要求。
+
+- [面试](https://careers.google.cn/how-we-hire/interview/)
+- [抉择](https://careers.google.cn/how-we-hire/decide/)
+
 2. [职位搜索工具](https://careers.google.com/jobs/results/?hl=zh_cn)
 
 3. [Google 员工可以享受到哪些福利](https://careers.google.cn/how-we-care-for-googlers/)
 
 
 ### 谷歌面试群
-目前已有小伙伴90+，欢迎加我微信：love9871112
+目前已有小伙伴99+，欢迎加我微信：love9871112
