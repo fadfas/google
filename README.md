@@ -22,6 +22,8 @@
 
 3. [Google 员工可以享受到哪些福利](https://careers.google.cn/how-we-care-for-googlers/)
 
+### Google HR 视角
+#### [從 Apple 到 Google，Recruiter WeiLin 解析 Google 面試技巧與科技人資職涯！](https://www.cakeresume.com/resources/podcast-interview-google-shanghai-recruiter-weilin-lin?locale=zh-TW)
 
 ### 谷歌面试群
 目前已有小伙伴99+，欢迎加我微信：love9871112
