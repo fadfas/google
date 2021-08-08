@@ -17,7 +17,9 @@
 想问楼主，后面多长时间用来刷新题，多长时间用来刷老题呢？很多题明显是刷一遍不够的，怎么做到后面能及时复习呢？谢谢。答：我觉得一天*道新题目就可以了，其他时间刷老题目找套路
 
 ### 问答社区
-[Google 的面试流程是怎样的？有什么心得？](https://www.zhihu.com/question/19678988)
+1. [Google 的面试流程是怎样的？有什么心得？](https://www.zhihu.com/question/19678988)
+2. [如何得到 Google 的工作机会？](https://www.zhihu.com/question/24099873)
+3. [国内程序员怎样竞争 Google 总部的工作机会，需要满足哪些条件？](https://www.zhihu.com/question/23703608/answer/2046776298)
 
 ### 官方面试指引
 1. [聘用原则和流程](https://careers.google.com/how-we-hire/?hl=zh_cn)
