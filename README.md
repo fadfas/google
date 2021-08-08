@@ -2,9 +2,13 @@
 😎 Awesome lists about all kinds of 谷歌面试 topics. 
 
 ### 谷歌面试经验
-#### [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
+1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
 > 精选摘要
 >> 面试官和我讨论了国内程序员行业的现状以及哪里可以改变，讨论了阶级流动的问题，例如中专的求职者能否进入谷歌的问题，他说现在暂时没有，但是只要他们敢投，有能力，他们就敢面试。
+
+2. [TAIWAN GOOGLE面試心得分享 – 長達3個月](https://keep-brain-alive.com/taiwan-google-interview-experience/)
+> 精选摘要
+>> Google面試的流程很長，如果想要面試Google一定要有心理準備。雖然有很多個階段的面試，但是看了我的分享就知道，其實題目都大概是Medium左右，只要了解重要的演算法、資料結構，並且將經典的題目練習幫助自己活用，那基本的準備就充足了。
 
 ### 官方面试指引
 1. [聘用原则和流程](https://careers.google.com/how-we-hire/?hl=zh_cn)
